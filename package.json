@@ -1,0 +1,12 @@
+{
+	"name": "starter",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "sass assets/theme.scss assets/theme.css --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
